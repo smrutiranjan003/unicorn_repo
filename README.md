@@ -39,17 +39,4 @@
 ![image](https://user-images.githubusercontent.com/106387298/229423119-2e5a14c0-e70b-4a9b-83c2-18bc9e9a6f8a.png)
 <br/>
 
-## Our Team Members
 
-- Biswaranjan Pradhan
-
-- Arunima Mohapatra
-
-- Anubhav Sinha
-
-- Kuldeep Nayak
- 
-- Ritika Priyadarshini Nayak
-
-- Smruti Ranjan Mohapatra
-<br/>
